@@ -1,7 +1,9 @@
-## H5 Blogs
+## React, React-router(v4), Apollo to starter
 
-- [Available Scripts](#available-scripts)
-  - [npm start](#npm-start)
-  - [npm test](#npm-test)
-  - [npm run build](#npm-run-build)
-  - [npm run eject](#npm-run-eject)
+### Use it
+
+```
+yarn start
+
+localhost:3000 or localhost:3000/knowledge/123
+```
