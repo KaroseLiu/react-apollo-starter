@@ -4,7 +4,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory'
 import { ApolloLink } from 'apollo-client-preset'
 
 const httpLink = new HttpLink({
-  uri: 'http://localhost:3080/8B8kMWAunyMhxM9q9OhMVCJiXpxBIqpo',
+  uri: 'http://localhost:3080/111',
 })
 
 const middlewareHeaderLink = new ApolloLink((operation, forward) => {
